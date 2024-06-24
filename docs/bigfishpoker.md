@@ -1,3 +1,0 @@
-# BigFishPoker
-
-Details about BigFishPoker.
